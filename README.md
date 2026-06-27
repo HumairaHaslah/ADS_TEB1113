@@ -2,7 +2,7 @@
 
 | No. Lab | Date       | Lab Tasks |
 |--------|------------|-----------|
-|    1   | 2026/05/29 | [Task 1 - Student](#) |
+|    1   | 2026/05/29 | [Task 1 - Student](#Lab 1 Task 1.cpp) |
 |    2   | 2026/06/05 | [Task 1 - Easy-Rotated Matrix](#) |
 |        |            | [Task 2 - Medium: Finding median in matrix using binary search](#) |
 |        |            | [Task 3 - Advanced: Maximum area rectangle of 1s in a binary matrix](#) |
