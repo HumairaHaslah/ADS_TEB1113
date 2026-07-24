@@ -17,5 +17,5 @@
 |    7   | 2026/07/10 | [Task 1 - Graph (Linked List)](https://github.com/HumairaHaslah/ADS_TEB1113/blob/fac9794211c48f2ff1e46f1382a3b346027ff0a0/Lab%207%20Task%201.cpp)|
 |    8   | 2026/07/17 | [Task 1 - Bubble Sort](https://github.com/HumairaHaslah/ADS_TEB1113/blob/500443fb685a8b087cb6ecf51c8e83af8b74655e/Lab%208%20Task%201.cpp)|
 |        |            | [Task 2 - Selection Sort](https://github.com/HumairaHaslah/ADS_TEB1113/blob/c247e78d9d2ed196085e0b4d3e6930258ed8bd57/Lab%208%20Task%202.cpp)|
-|        |            | [Task 3 - Insertion Sort](  )|
+|        |            | [Task 3 - Insertion Sort](https://github.com/HumairaHaslah/ADS_TEB1113/blob/b1e74e8ae95acf03dd7cec6f1d4a0ed10cdd42cd/Lab%208%20Task%203.cpp)|
 |        |            | [Task 4 - Quick Sort](https://github.com/HumairaHaslah/ADS_TEB1113/blob/719ccd0e20a3be00a2e9eeb1e1bc3001207efe15/Lab%208%20Task%204.cpp)|
