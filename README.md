@@ -18,4 +18,4 @@
 |    8   | 2026/07/17 | [Task 1 - Bubble Sort](  )|
 |        |            | [Task 2 - Selection Sort](  )|
 |        |            | [Task 3 - Insertion Sort](  )|
-|        |            | [Task 4 - Quick Sort](  )|
+|        |            | [Task 4 - Quick Sort](https://github.com/HumairaHaslah/ADS_TEB1113/blob/719ccd0e20a3be00a2e9eeb1e1bc3001207efe15/Lab%208%20Task%204.cpp)|
