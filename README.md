@@ -13,7 +13,7 @@
 |        |            | [Task 2 - Stack (Array)](https://github.com/HumairaHaslah/ADS_TEB1113/blob/f5913acc5b21d785be9d4c5eabfcf891498b9962/Lab%205%20Task%202.cpp)
 |        |            | [Task 3 - Queue (Linked List)](https://github.com/HumairaHaslah/ADS_TEB1113/blob/f5913acc5b21d785be9d4c5eabfcf891498b9962/Lab%205%20Task%203.cp)
 |        |            | [Task 4 - Queue (Array)](https://github.com/HumairaHaslah/ADS_TEB1113/blob/f5913acc5b21d785be9d4c5eabfcf891498b9962/Lab%205%20Task%204.cpp)
-|    6   | 2026/07/03 | [Task 1 - Binary Search Tree (Tree)](  )|
+|    6   | 2026/07/03 | [Task 1 - Binary Search Tree (Tree)](https://github.com/HumairaHaslah/ADS_TEB1113/blob/82b4416135014229c536d28b908f01f6bdbc5c34/Lab%206%20Task%201.cpp)|
 |    7   | 2026/07/10 | [Task 1 - Graph (Linked List)](  )|
 |    8   | 2026/07/17 | [Task 1 - Bubble Sort](  )|
 |        |            | [Task 2 - Selection Sort](  )|
